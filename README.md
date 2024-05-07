@@ -1,7 +1,5 @@
-- 👋 Oi, meu nome é @July0603
-- 👀 Entusiasta em TI...
-- 🌱 Atualmente estou aprendendo ...
-- 😄 Pronouns: ela/dela
+- 👋 Oi, meu nome é july
+- 👀 Entusiasta em TI..
 - 👾 tenho 16 anos
 
 
